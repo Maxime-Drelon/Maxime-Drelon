@@ -1,6 +1,6 @@
 ## Hi there, I’m Max 👋
 
-Hi I'm Max, fourth year student at Epitech
+I am a full-stack developer at Onepoint, 4th year student at Epitech Paris
 
 - 👀 I’m interested in software and game development
 - 🚀 I'm currently working on my project [raspirrigation](https://github.com/Maxime-Drelon/raspirrigation)
