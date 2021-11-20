@@ -1,13 +1,13 @@
 ## Hi there, I’m Max 👋
 
-I"m Max a full-stack web developer at Onepoint, 4th year student at Epitech Paris
+I'm Max a full-stack web developer at Onepoint, 4th year student at Epitech Paris
 
 - 👀 I’m interested in software and game development
 - 🚀 I'm currently working on my project [raspirrigation](https://github.com/Maxime-Drelon/raspirrigation)
 - 🌱 I’m currently learning Elixir & Arduino
 - 🤝 I’m looking to collaborate on Hardware projects
 
-## Technologies
+## Languages & Frameworks
 
 <div style="display: flex">
   <img src="https://godotengine.org/themes/godotengine/assets/press/icon_color.png" height="50"/>
