@@ -1,6 +1,6 @@
 Hi there, I’m Max 👋
 
-I'm a full-stack web developer who graduated from Epitech Paris and is currently working at Onepoint.
+I'm a full-stack web developer who graduated from Epitech Paris and currently working at Onepoint.
 
 - 👀 I’m passionate about software development and always eager to learn new technologies.
 - 🚀 I'm currently working on a game about exploring procedural dungeons.
