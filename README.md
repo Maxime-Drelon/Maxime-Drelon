@@ -13,7 +13,6 @@ Feel free to connect with me!
 
 <div style="display: flex">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" height="50"/>
-  <img src="https://seeklogo.com/images/V/vuex-logo-8383C0CED5-seeklogo.com.png" height="50"/>
   <img src="https://pinia.vuejs.org/logo.svg" height="50"/>
   <img alt="Vuetify Logo" height="50" src="https://cdn.vuetifyjs.com/images/logos/logo.svg">
   <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" height="50"/>
